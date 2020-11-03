@@ -12,6 +12,9 @@ import translator.domain.TranslatedText;
 import static org.junit.Assert.assertEquals;
 
 
+
+
+
 @RunWith(SpringRunner.class)
 @SpringBootTest(classes = Application.class)
 public class TranslatorServiceTest {
